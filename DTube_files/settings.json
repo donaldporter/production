@@ -19,7 +19,7 @@
       "upldr": ["cluster"]
     },
     "app": "dtube/0.9",
-    "beneficiary": "dtube",
+    "beneficiary": "reggaetube",
     "pageTitleSeparator": "-",
     "appName": "ReggaeTube",
     "ipfs": "",
