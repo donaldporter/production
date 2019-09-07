@@ -19,9 +19,9 @@
       "upldr": ["cluster"]
     },
     "app": "dtube/0.9",
-    "beneficiary": "reggaetube",
+    "beneficiary": "dtube",
     "pageTitleSeparator": "-",
-    "appName": "ReggaeTube",
+    "appName": "DTube",
     "ipfs": "",
     "lang": {
       "ar": {"name": "العربية", "path": "ar/ar-SA.json"},
