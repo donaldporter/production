@@ -143,7 +143,7 @@ var require=meteorInstall({client:{views:{pages:{channel:{activities:{activity:{
 
 	
 	/* Video page sidebar ad */
-	HTML.Raw('\n    <a href="//www.reggaetube.io/v/jahm.syndicator/s9siye52lfj"><img src="DTube_files/images/sgfeature200x600.png" /></a><div class="ui divider"></div>\n\n    '),
+	HTML.Raw('\n    <a href="//www.reggaetube.io/v/jahm.syndicator/s9siye52lfj"><img src="DTube_files/images/sgfeature200x600.png" /></a>\n\n    '),
 
 	HTML.Raw('\n    <div style="text-align:center" class="ui basic segment center">[ ADVERTISE HERE ]<br /><a href="https://reggaesteem.com/signup">Join ReggaeSteem</a></div>\n\n    '),
 
